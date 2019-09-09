@@ -15,3 +15,9 @@ Here is a list of books I've read so far in 2019.
 - _"Surely You're Joking, Mr. Feynman!"_ by Richard P. Feynman
 - _Why We Sleep_ by Matthew Walker
 - _The Theory That Would Not Die_ by Sharon Bertsch McGrayne
+
+Textbooks and Online Courses:
+- [Online courses to be put here]
+- _Hands-On Machine Learning with Scikit-Learn & Tensorflow_ by Aurelien Geron
+- _Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems_ by Peter Dayan and L.F. Abbott _(in progress)_
+- More todo...
